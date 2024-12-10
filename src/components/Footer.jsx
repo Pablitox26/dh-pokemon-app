@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
       <footer className="footer">
-        <p>© 2024 - My React App</p>
+        <p>© 2024 - Pokemon App</p>
       </footer>
     );
   };
